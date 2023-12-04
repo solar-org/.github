@@ -1,0 +1,13 @@
+{
+    "name": "Solar Organization Workflow",
+    "description": "Sola Organization CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "NodeJS"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
